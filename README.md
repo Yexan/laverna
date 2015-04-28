@@ -85,3 +85,4 @@ Laverna uses a lot of other libraries and each of these [libraries uses differen
 [7]: https://github.com/Laverna/laverna/blob/master/CONTRIBUTE.md
 [8]: http://nodejs.org
 [9]: https://github.com/Laverna/static-laverna/archive/gh-pages.zip
+
